@@ -20,7 +20,7 @@ Full Agenda:
 
 - OSF Foundation Deck 2019: [For The Love of Open](https://docs.google.com/presentation/d/1CenB4CB90XBpe-1E_vqMONEt4tqznRz8hINDD5u7p8c/edit#slide=id.g5d1ba5a7a1_4_9)
 - Saputro Aryulianto: [OpenStack 101](https://docs.google.com/presentation/d/12HChUDHaUKJMCPQFV8eAAIMqA7enFXMiDScar5ueP4I)
-- Syah Dwi Prihatmoko: [OpenStack Ironic for Kubernetes Baremetal Cluster Provisioning ](TBD)
+- Syah Dwi Prihatmoko: [OpenStack Ironic for Kubernetes Baremetal Cluster Provisioning ](https://github.com/openstackindo/meetup/blob/master/001/OpenStack-Ironic-for-k8s-Baremetal-Cluster-Provisioning.pdf)
 ## Notes
 
 - OpenStack Meetup #2 - Malang 31 Agustus 2019
