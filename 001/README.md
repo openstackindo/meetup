@@ -3,6 +3,8 @@
 - Hosted by @openstackindo + @glibogor
 - Speakers: @aryulianto @sdmoko
 - Presenter: @utianayuba
+- Designer: @rizkifnst
+- Photographer @dpdelly @ilham_fauzi
 - Meetup date: 2019-07-27
 - Venue: FintechSPACE by UnionSPACE
 - Sponsor: OpenStack Foundation, Btech, Biznet Gio Cloud
@@ -28,4 +30,4 @@ Full Agenda:
 
 ## Documentation
 
-- Soon on Flickr :)
+- [OpenStack 9th Birthday Celebration - OpenStack Indonesia #1 Meetup](https://www.flickr.com/photos/182934431@N07/albums/72157709956581282)
